@@ -1,2 +1,2 @@
 # RegEx-Patterns
- Full course meal on regex
+Course Materail on mastering Regular Expressions 
