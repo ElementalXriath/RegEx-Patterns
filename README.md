@@ -1,2 +1,2 @@
 # RegEx-Patterns
-Course Materail on mastering Regular Expressions 
+Course Material on mastering Regular Expressions 
